@@ -1,2 +1,9 @@
-# Amazon-Spam-Reviews-Detection
-A Support Vector Machines model that predicts whether an Amazon review is fake or not with 90% accuracy
+# Spam Review Detection with Amazon reviews
+
+Model: Support Vector Machines
+
+Dependencies: NTLK, scikit-learn
+
+File:
+   data_exploration: explore some characteristics of the reviews and compare fake reviews vs real reviews
+   svm_model: training support vector machines model for classification b/w fake and real reviews
